@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "package": "ink.frostbound.lohen",
+  "versionCode": 101,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/alskdm1362-spec/frostbound-releases/releases/download/android-v1.0.1/Frostbound-1.0.1.apk",
+  "sha256": "825ec894eb3885f3e1977da04206362fb7c0992b10ed86e7e58b11568888a5d6",
+  "size": 24252186,
+  "minSdk": 26,
+  "changelog": [
+    "앱 → 화면 방향에서 가로, 세로, 기기 설정을 선택할 수 있어요.",
+    "가로 화면에서 전장과 손패를 한 화면에 배치했어요."
+  ]
+}
